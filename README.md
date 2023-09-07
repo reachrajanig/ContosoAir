@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/rajani0789/GitHubPractice/_apis/build/status%2Freachrajanig.ContosoAir?branchName=master)](https://dev.azure.com/rajani0789/GitHubPractice/_build/latest?definitionId=44&branchName=master)
 
 # Microsoft.Github CI Demo
 
